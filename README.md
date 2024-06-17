@@ -16,7 +16,7 @@
 - Use otu_ids for the marker colors.
 - Use otu_labels for the text values.
 
-![Image](Images/bubble_chart.jpeg)
+![Image](Images/bubble_chart.jpg)
 
 * Display the sample's metadata, i.e., an individual's demographic information.
 - Loop through each key-value pair from the metadata JSON object and create a text string.
